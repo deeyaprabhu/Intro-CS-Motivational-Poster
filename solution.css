@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+    margin: 0;
+  }
+  
+  h1 {
+    text-transform: uppercase;
+    font-size: 3rem;
+    color: magenta; /* your original color */
+    font-family: "Libre Baskerville", serif;
+    margin-bottom: 0.5em;
+  }
+  
+  p {
+    color: magenta; /* matching paragraph color */
+    font-family: "Libre Baskerville", serif;
+    margin-top: 0;
+    margin-bottom: 1em;
+    text-align: center;
+  }
+  
+  .poster {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .motivation-img {
+    border: 5px solid black; /* your original border */
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+  }
+  h2 {
+    color: magenta; /* matching paragraph color */
+    font-family: "Libre Baskerville", serif;
+    margin-top: 0;
+    margin-bottom: 1em;
+    text-align: center;
+  }
+  h3 {
+    color: magenta; /* matching paragraph color */
+    font-family: "Libre Baskerville", serif;
+    margin-top: 0;
+    margin-bottom: 1em;
+    text-align: center;
+  }
